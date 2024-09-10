@@ -98,6 +98,11 @@ Brief  summarize:
         pause
 
 
-### misc
+### Notes
 
 - on explorer  \\wsl$  to access the home
+
+- By default, wsl mount localdisk with root.  To be able to access the folder thru samba, should chown to [your account].  
+
+
+
